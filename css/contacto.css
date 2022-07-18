@@ -7,7 +7,7 @@
 
 body {
     background-color:#000;
-    color: #fff;
+    color: #0AEEF0;
     font-size: 18px;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
@@ -52,13 +52,13 @@ body {
 }
 
 .barra-navegacion .logo { 
-    color:red;
+    color:#FF4D00;
     font-size: 50px;
 }
 
 .barra-navegacion a {
     text-decoration: none;
-    color: #fff;
+    color: #0AEEF0;
     font-size: 19px;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
@@ -68,7 +68,7 @@ body {
 }
 
 .barra-navegacion a:hover {
-    color: red;
+    color: #f59622;
     border-bottom: 1px solid currentcolor;
 }
 
